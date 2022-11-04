@@ -47,4 +47,4 @@ include device/google/gs201/BoardConfig-common.mk
 include device/google/pantah/sepolicy/panther-sepolicy.mk
 include device/google/pantah/wifi/BoardConfig-wifi.mk
 
-include device/google/pantah/panther/BoardConfigLineage.mk
+include device/google/pantah/panther/BoardConfigEvolution.mk

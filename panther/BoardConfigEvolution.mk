@@ -4,6 +4,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-include device/google/pantah/BoardConfigLineage.mk
+include device/google/pantah/BoardConfigEvolution.mk
 
 include vendor/google/panther/BoardConfigVendor.mk
