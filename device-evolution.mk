@@ -18,6 +18,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
 
+# PixelParts
+include packages/apps/PixelParts/device.mk
+
 # PowerShare
 include hardware/google/pixel/powershare/device.mk
 
