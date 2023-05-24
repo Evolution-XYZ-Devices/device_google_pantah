@@ -401,7 +401,3 @@ PRODUCT_VENDOR_PROPERTIES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.quick_start.oem_id=00e0 \
     ro.quick_start.device_id=panther
-
-# HBM
-PRODUCT_PACKAGES += \
-    HbmSVManagerOverlayPanther
