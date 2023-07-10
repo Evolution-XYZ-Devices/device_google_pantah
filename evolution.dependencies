@@ -13,6 +13,10 @@
     "repository"  : "vendor_google_panther",
     "target_path" : "vendor/google/panther" 
   },
+  { 
+    "repository"  : "vendor_google_faceunlock",
+    "target_path" : "vendor/google/faceunlock"
+  },
   {
     "repository"  : "packages_apps_PixelParts",
     "target_path" : "packages/apps/PixelParts"

@@ -14,6 +14,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
 
+# Face unlock
+include vendor/google/faceunlock/device.mk
+
 # PixelParts
 include packages/apps/PixelParts/device.mk
 
